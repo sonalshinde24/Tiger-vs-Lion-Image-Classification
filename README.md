@@ -4,7 +4,7 @@ A simple binary image classification project that trains a Convolutional Neural 
 
 ---
 
-📎 Dataset
+### 📎 Dataset
 
 This project uses the Tiger vs Lion Image Classification Dataset available on Kaggle, which contains labeled images for two classes:
 - Tiger
