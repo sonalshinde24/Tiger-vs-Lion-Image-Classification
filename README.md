@@ -12,12 +12,12 @@ This project uses the Tiger vs Lion Image Classification Dataset available on Ka
 
 The dataset has a clean folder structure and is ready for training image classification models.
 
-📥 Download dataset here:
+#### 📥 Download dataset here:
 https://www.kaggle.com/datasets/sonalshinde123/tiger-vs-lion-image-classification-dataset/data
 
 ---
 
-🧠 Project Overview
+### 🧠 Project Overview
 
 In this project you will:
 
@@ -31,34 +31,34 @@ The notebook uses standard libraries such as TensorFlow / Keras, NumPy, and Matp
 
 ---
 
-🚀 How to Run
+### 🚀 How to Run
 
-1. Clone the repository
+#### 1. Clone the repository
 ```bash
 git clone https://github.com/sonalshinde24/Tiger-vs-Lion-Image-Classification.git
 cd Tiger-vs-Lion-Image-Classification
 ```
 
-2. Download the dataset
+#### 2. Download the dataset
 
 • Go to the Kaggle link above and download the dataset.
 • Place the dataset folders (tiger & lion images) in a local directory that the notebook refers to.
 
-3. Open and run the notebook
+#### 3. Open and run the notebook
 
 • Launch lion-vs-tiger-binary-cnn.ipynb in your Jupyter environment
 • Follow each cell to load data, preprocess images, build/train the model, and visualize results.
 
 ---
 
-🛠️ Requirements
+### 🛠️ Requirements
 
 Install dependencies before running:
 ```bash
 pip install tensorflow keras numpy matplotlib pandas
 ```
 
-📈 What You’ll Learn
+### 📈 What You’ll Learn
 
 This project helps you understand:
 
